@@ -1,4 +1,4 @@
-# api-progressa-aritmetica
+# api-progressao-aritmetica
 
 Projeto que sobe um Container e, neste, uma API RESTful com o Swagger
 
